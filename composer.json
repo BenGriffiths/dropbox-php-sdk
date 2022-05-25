@@ -11,7 +11,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "~6.0",
-        "tightenco/collect": "^5.2"
+        "tightenco/collect": "dev-laravel-5.5-ongoing#c914bfa72d"
     },
     "autoload": {
         "psr-4": {
